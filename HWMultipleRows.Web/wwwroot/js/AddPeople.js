@@ -23,7 +23,4 @@
         let id = $(this).data('id'); 
         $(`#${id}`).remove();
     })
-
-
-
 })
